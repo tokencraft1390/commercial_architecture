@@ -29,7 +29,7 @@ Public examples, interface descriptions, simulated components, and commercial ev
 
 Qualified organizations may request a controlled technical audit or commercial evaluation. Evaluation access is provided under separate commercial terms and, where appropriate, controlled access to private technical materials.
 
-**Inquiries:** [zachary.ribble.arch@gmail.com](mailto:zachary.ribble.arch@gmail.com)
+**Inquiries:** [tokencraft1390@gmail.com](mailto:tokencraft1390@gmail.com)
 
 See [docs/EVALUATION.md](docs/EVALUATION.md) for the evaluation path and [docs/SECURITY_BOUNDARY.md](docs/SECURITY_BOUNDARY.md) for the public/private disclosure boundary.
 
